@@ -9,6 +9,21 @@ We are Alba, Arisa & Josefine - welcome, it's so nice to meet you. We have been 
 ## Episode Archive
 
 <!-- BLOG-POST-LIST:START -->
+- [[LIVE] GitHub Actions with Alba &amp; Josi | Chatting As ANY](https://www.youtube.com/watch?v=AFTjw3zVKBQ)
+- [1.6 - Technical SEO &amp; Web Performance with Estela](https://www.youtube.com/watch?v=XNCP8HG_C04)
+- [[LIVE] Technical SEO &amp; Web Performance with Estela ⚡️](https://www.youtube.com/watch?v=SDcDutjZrp8)
+- [It&#39;s all about the data... 😏](https://www.youtube.com/watch?v=SpyKyPfuJjA)
+- [1.5 - 2024 Trends &amp; developer state of reports](https://www.youtube.com/watch?v=rzXSQ49ii-E)
+- [[LIVE] State of the Web with Alba &amp; Josi | Chatting As ANY](https://www.youtube.com/watch?v=DYETgt08ZFg)
+- [1.4 - Talking about growth and community work with Vasilika](https://www.youtube.com/watch?v=0GcQv-IAGgY)
+- [How will DevRel change when AI takes our jobs away?](https://www.youtube.com/watch?v=qF_hb66tMVI)
+- [How will DevRel change when AI takes all of our jobs away?](https://www.youtube.com/watch?v=ct03EQPbXYE)
+- [[LIVE] Growth &amp; Community Work with Vasilika ⚡️](https://www.youtube.com/watch?v=u2G1M7fMF5w)
+- [1.3 - Pet Projects with Arisa, Josi &amp; Alba](https://www.youtube.com/watch?v=1ad-mpmTlhs)
+- [[LIVE] Pet Project with Alba, Josi &amp; Arisa | Chatting As ANY](https://www.youtube.com/watch?v=PTrVun7nx5g)
+- [1.2 - Learning how to write &amp; publish technical books with Maya Shavin](https://www.youtube.com/watch?v=MulXhuTNdqk)
+- [[LIVE] Writing tech books as any with Maya Shavin ⚡️](https://www.youtube.com/watch?v=yUF9gBteeco)
+- [Why do we call the podcast “As ANY”?](https://www.youtube.com/watch?v=JcvSobBEnJU)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
