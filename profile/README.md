@@ -6,6 +6,11 @@ You might previously know us or our stream under the name 'Girl Code', so welcom
 
 We are Alba, Arisa & Josefine - welcome, it's so nice to meet you. We have been running a version of this podcast since '22 - and we are loving it, hope you do to.
 
+## Episode Archive
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 
 **Here are some ideas to get you started:**
