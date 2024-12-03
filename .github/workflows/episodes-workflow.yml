@@ -17,3 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXg4HlpyrJzO68RIjijEGBA"
+          max_post_count: 100
+          readme_path: "./profile/README.md"
