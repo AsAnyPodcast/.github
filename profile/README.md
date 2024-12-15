@@ -8,8 +8,8 @@ We are Alba, Arisa & Josefine - welcome, it's so nice to meet you. We have been 
 
 ## Episode Archive
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AFTjw3zVKBQ"><img width="140px" src="http://img.youtube.com/vi/AFTjw3zVKBQ/0.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AFTjw3zVKBQ">[LIVE] GitHub Actions with Alba &amp; Josi | Chatting As ANY</a><br/>4 Dec, 2024</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iDwMhFh9r7o"><img width="140px" src="http://img.youtube.com/vi/iDwMhFh9r7o/0.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iDwMhFh9r7o">1.7 - Setting up a GitHub Action to automatically list our episodes every Sunday &lpar;Live Coding&rpar;</a><br/>8 Dec, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XNCP8HG_C04"><img width="140px" src="http://img.youtube.com/vi/XNCP8HG_C04/0.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XNCP8HG_C04">1.6 - Technical SEO &amp; Web Performance with Estela</a><br/>28 Nov, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SDcDutjZrp8"><img width="140px" src="http://img.youtube.com/vi/SDcDutjZrp8/0.jpg"></a></td>
