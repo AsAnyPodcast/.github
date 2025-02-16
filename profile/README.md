@@ -8,7 +8,11 @@ We are Alba, Arisa & Josefine - welcome, it's so nice to meet you. We have been 
 
 ## Episode Archive
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=U2e6eV2Xtzs"><img width="140px" src="http://img.youtube.com/vi/U2e6eV2Xtzs/0.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BY1SUB1GdP0"><img width="140px" src="http://img.youtube.com/vi/BY1SUB1GdP0/0.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BY1SUB1GdP0">1.9 - Community, Freelancing &amp; Summer of Code with Carmen Huidobro</a><br/>14 Feb, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cA7gwvTSVZ8"><img width="140px" src="http://img.youtube.com/vi/cA7gwvTSVZ8/0.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cA7gwvTSVZ8">[LIVE] Community, Freelancing &amp; Summer of Code with Carmen Huidobro ⚡️</a><br/>12 Feb, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=U2e6eV2Xtzs"><img width="140px" src="http://img.youtube.com/vi/U2e6eV2Xtzs/0.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U2e6eV2Xtzs">Ever tried rubber ducking with AI? #rubberduck #womenintech #techpodcast</a><br/>30 Jan, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dQlU8rfKYAE"><img width="140px" src="http://img.youtube.com/vi/dQlU8rfKYAE/0.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dQlU8rfKYAE">1.8 - Back from Winter Break | Chat as ANY</a><br/>30 Jan, 2025</td></tr></table>
@@ -34,10 +38,6 @@ We are Alba, Arisa & Josefine - welcome, it's so nice to meet you. We have been 
 <td><a href="https://www.youtube.com/watch?v=qF_hb66tMVI">How will DevRel change when AI takes our jobs away?</a><br/>1 Nov, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ct03EQPbXYE"><img width="140px" src="http://img.youtube.com/vi/ct03EQPbXYE/0.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ct03EQPbXYE">How will DevRel change when AI takes all of our jobs away?</a><br/>1 Nov, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=u2G1M7fMF5w"><img width="140px" src="http://img.youtube.com/vi/u2G1M7fMF5w/0.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=u2G1M7fMF5w">[LIVE] Growth &amp; Community Work with Vasilika ⚡️</a><br/>31 Oct, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1ad-mpmTlhs"><img width="140px" src="http://img.youtube.com/vi/1ad-mpmTlhs/0.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1ad-mpmTlhs">1.3 - Pet Projects with Arisa, Josi &amp; Alba</a><br/>18 Oct, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!--
