@@ -8,7 +8,9 @@ We are Alba, Arisa & Josefine - welcome, it's so nice to meet you. We have been 
 
 ## Episode Archive
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BY1SUB1GdP0"><img width="140px" src="http://img.youtube.com/vi/BY1SUB1GdP0/0.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3XiSAA7X_oM"><img width="140px" src="http://img.youtube.com/vi/3XiSAA7X_oM/0.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3XiSAA7X_oM">[LIVE] 1.10 Live coding our website | Chat as ANY</a><br/>26 Feb, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BY1SUB1GdP0"><img width="140px" src="http://img.youtube.com/vi/BY1SUB1GdP0/0.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BY1SUB1GdP0">1.9 - Community, Freelancing &amp; Summer of Code with Carmen Huidobro</a><br/>14 Feb, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cA7gwvTSVZ8"><img width="140px" src="http://img.youtube.com/vi/cA7gwvTSVZ8/0.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cA7gwvTSVZ8">[LIVE] Community, Freelancing &amp; Summer of Code with Carmen Huidobro ⚡️</a><br/>12 Feb, 2025</td></tr></table>
@@ -36,8 +38,6 @@ We are Alba, Arisa & Josefine - welcome, it's so nice to meet you. We have been 
 <td><a href="https://www.youtube.com/watch?v=0GcQv-IAGgY">1.4 - Talking about growth and community work with Vasilika</a><br/>2 Nov, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qF_hb66tMVI"><img width="140px" src="http://img.youtube.com/vi/qF_hb66tMVI/0.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qF_hb66tMVI">How will DevRel change when AI takes our jobs away?</a><br/>1 Nov, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ct03EQPbXYE"><img width="140px" src="http://img.youtube.com/vi/ct03EQPbXYE/0.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ct03EQPbXYE">How will DevRel change when AI takes all of our jobs away?</a><br/>1 Nov, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!--
