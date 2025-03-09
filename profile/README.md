@@ -9,7 +9,7 @@ We are Alba, Arisa & Josefine - welcome, it's so nice to meet you. We have been 
 ## Episode Archive
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3XiSAA7X_oM"><img width="140px" src="http://img.youtube.com/vi/3XiSAA7X_oM/0.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3XiSAA7X_oM">[LIVE] 1.10 Live coding our website | Chat as ANY</a><br/>26 Feb, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=3XiSAA7X_oM">[LIVE] 1.10 - Starting to work on our new podcast website | Chat As ANY</a><br/>26 Feb, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BY1SUB1GdP0"><img width="140px" src="http://img.youtube.com/vi/BY1SUB1GdP0/0.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BY1SUB1GdP0">1.9 - Community, Freelancing &amp; Summer of Code with Carmen Huidobro</a><br/>14 Feb, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cA7gwvTSVZ8"><img width="140px" src="http://img.youtube.com/vi/cA7gwvTSVZ8/0.jpg"></a></td>
